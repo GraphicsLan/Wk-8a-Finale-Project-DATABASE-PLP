@@ -25,7 +25,7 @@ SETUP INSTRUCTIONS
 
  Steps to Run the Project
 
-1.Start a sql server and log in as a user
-2.open a new sql script
-3.copy students_db.sql and paste on the script.
-4. Run the script
+- 1.Start a sql server and log in as a user
+- 2.open a new sql script
+- 3.copy students_db.sql and paste on the script.
+- 4. Run the script

@@ -23,9 +23,15 @@ SETUP INSTRUCTIONS
 
 ---
 
+
+
  Steps to Run the Project
 
 - 1.Start a sql server and log in as a user
 - 2.open a new sql script
 - 3.copy students_db.sql and paste on the script.
-- 4. Run the script
+- 4.Run the script
+
+---
+- Follow the link below to access the Projects ERD Diagram
+- https://drive.google.com/file/d/1W0Z6svnoD_sOTlDnMw3p98HC8ic_s12-/view?usp=sharing
